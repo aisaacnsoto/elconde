@@ -1,3 +1,3 @@
 export const Config = {
-    apiURL: 'https://www.puntodventa.com.pe/elconde/api/public/api/'
+    apiURL: 'https://elconde-barbershop-api.herokuapp.com/api/'
 }
